@@ -8,10 +8,10 @@ Features
 3.Calculates overall CGPA
 4. Displays final grade (A to F)
 
-How to Run
-</> Bash
+How to Run<br>
+</> Bash<br>
     python cgpa_calculator.py
 
-Author 
-Muhammad Saifullah
+Author<br> 
+Muhammad Saifullah<br>
 BSCS Student | Python Developer | AI Enthusiast 
